@@ -4,7 +4,7 @@
 
 - [x] javascripting
 - [x] learnyounode
-- [ ] git-it
+- [x] git-it
 - [ ] how-to-npm
 - [ ] scope-chains-closures
 - [ ] stream-adventure
