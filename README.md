@@ -3,7 +3,7 @@
 ## Основы
 
 - [x] javascripting
-- [ ] learnyounode
+- [x] learnyounode
 - [ ] git-it
 - [ ] how-to-npm
 - [ ] scope-chains-closures
