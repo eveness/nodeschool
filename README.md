@@ -35,7 +35,7 @@
 - [ ] learnuv
 - [ ] esnext-generation
 - [ ] learn-generators
-- [ ] test-anything
+- [x] test-anything
 - [ ] learnyoureact
 - [ ] tower-of-babel
 - [ ] perfschool
